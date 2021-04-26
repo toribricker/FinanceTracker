@@ -1,0 +1,15 @@
+#homeWrapper{
+    ul{
+        overflow: hidden;
+        li{
+            margin:0px;
+            padding:12px 24px;
+            float: left;
+            list-style: none;
+            a {
+                color: white;
+                text-decoration:none;
+            }
+        }
+    }
+}
